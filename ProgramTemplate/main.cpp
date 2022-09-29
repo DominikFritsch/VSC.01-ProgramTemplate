@@ -2,7 +2,7 @@
 
 consteval int get_value()
 {
-    return 0;
+    return 3;
 }
 
 int main()
