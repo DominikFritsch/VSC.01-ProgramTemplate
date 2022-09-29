@@ -10,8 +10,8 @@
 				"/std:c++latest",
 				"/EHsc",
 				"/Fe:",
-				"${workspaceFolder}\\*.cpp",
-				"${fileDirname}\\programm.exe"
+				"${fileDirname}\\programm.exe",
+				"${workspaceFolder}\\*.cpp"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
