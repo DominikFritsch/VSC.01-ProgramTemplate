@@ -1,3 +1,5 @@
+/* Minimal-Code zum Testen der verschiedenen Compiler: MSCV, GCC und Clang. */
+
 #include <iostream>
 
 consteval int get_value()
