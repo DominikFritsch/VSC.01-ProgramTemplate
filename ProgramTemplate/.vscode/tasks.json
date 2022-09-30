@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "Build with MSVC",
+			"label": "Build with MSVC 19.33.31630",
 			"command": "cl.exe",
 			"args": [
 				"/Zi",
@@ -24,7 +24,7 @@
 		},
 		{
 			"type": "cppbuild",
-			"label": "Build with GCC",
+			"label": "Build with GCC 12.2.0",
 			"command": "C:\\Compiler\\mingw64\\bin\\g++.exe",
 			"args": [
 				"-g",
@@ -44,7 +44,7 @@
 		},
 		{
 			"type": "cppbuild",
-			"label": "Build with Clang",
+			"label": "Build with Clang 14.0.6",
 			"command": "C:\\Compiler\\mingw64\\bin\\clang++.exe",
 			"args": [
 				"-g",
