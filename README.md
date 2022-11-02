@@ -4,7 +4,7 @@ Programmvorlage für C++20 Terminal-Anwendungen unter Windows in Visual Studio C
 # Hinweise:
 
 - Zur Nutzung des MSVC muss Visual Studio Code von der Powershell mittels <code .>-Befehl gestartet werden.
-- Weicht der gewünschte Pfad zu den Compilern GCC und Clang vom konfigurierten Pfad ab, so ist dieser in der Datei <tasks.json> anzupasen.
+- Weicht der gewünschte Pfad zu den Compilern GCC und Clang vom konfigurierten Pfad ab, so ist dieser in der Datei <tasks.json> anzupassen.
 
 # Konfigurierte Pfade:
 
